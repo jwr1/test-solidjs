@@ -2,69 +2,69 @@
   "/*404": [
     {
       "type": "script",
-      "href": "/assets/_...404_-c348979c.js"
+      "href": "/test-solidjs/assets/_...404_-68a260df.js"
     },
     {
       "type": "script",
-      "href": "/assets/index-02f9f05a.js"
+      "href": "/test-solidjs/assets/index-7acb9ec8.js"
     },
     {
       "type": "script",
-      "href": "/assets/entry-client-b193b264.js"
+      "href": "/test-solidjs/assets/entry-client-454b9936.js"
     },
     {
       "type": "style",
-      "href": "/assets/entry-client-d870915a.css"
+      "href": "/test-solidjs/assets/entry-client-d870915a.css"
     }
   ],
   "/docs": [
     {
       "type": "script",
-      "href": "/assets/docs-77a8143e.js"
+      "href": "/test-solidjs/assets/docs-d503d892.js"
     },
     {
       "type": "script",
-      "href": "/assets/index-02f9f05a.js"
+      "href": "/test-solidjs/assets/index-7acb9ec8.js"
     },
     {
       "type": "script",
-      "href": "/assets/entry-client-b193b264.js"
+      "href": "/test-solidjs/assets/entry-client-454b9936.js"
     },
     {
       "type": "style",
-      "href": "/assets/entry-client-d870915a.css"
+      "href": "/test-solidjs/assets/entry-client-d870915a.css"
     }
   ],
   "/": [
     {
       "type": "script",
-      "href": "/assets/index-748a4890.js"
+      "href": "/test-solidjs/assets/index-c739153f.js"
     },
     {
       "type": "script",
-      "href": "/assets/index-02f9f05a.js"
+      "href": "/test-solidjs/assets/index-7acb9ec8.js"
     },
     {
       "type": "script",
-      "href": "/assets/entry-client-b193b264.js"
+      "href": "/test-solidjs/assets/entry-client-454b9936.js"
     },
     {
       "type": "style",
-      "href": "/assets/entry-client-d870915a.css"
+      "href": "/test-solidjs/assets/entry-client-d870915a.css"
     },
     {
       "type": "style",
-      "href": "/assets/index-fdb6b3cf.css"
+      "href": "/test-solidjs/assets/index-fdb6b3cf.css"
     }
   ],
   "entry-client": [
     {
       "type": "script",
-      "href": "/assets/entry-client-b193b264.js"
+      "href": "/test-solidjs/assets/entry-client-454b9936.js"
     },
     {
       "type": "style",
-      "href": "/assets/entry-client-d870915a.css"
+      "href": "/test-solidjs/assets/entry-client-d870915a.css"
     }
   ],
   "index.html": []
